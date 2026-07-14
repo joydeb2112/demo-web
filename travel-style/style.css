@@ -103,7 +103,8 @@
 
   .nav-item,
   .nav-btn,
-  .main-img img {
+  .main-img img,
+  .hero-btn {
     margin-top: 20px;
   }
 
